@@ -1,0 +1,28 @@
+#concatenation
+str1="hello"
+str2="world"
+str3=str1+str2
+print(str3)
+#to find length
+def string_length(s):
+   count=0
+   for char in s:
+     count+=1
+string_length(apple)
+print("length",string_length)
+#conversion to upper case
+str=python
+str.upper()
+print(str)
+#indexing
+a="visual studio"
+print(a[8])#s
+#Slicing
+print(a[0:5])#visual
+print([:3])#visu
+print([8:])#studio
+     
+     
+     
+    
+
