@@ -1,0 +1,13 @@
+a="i am a student studying in india"
+print(a1=a.ends with("er"))#False
+print(a2=a.captialize())#I am a student studying in india
+print(a3=a.replace("india","hyderabad"))#i am a student studying in hyderaba
+print(a4=a.find(student))#3
+print(a5=a.count(in))#1
+print(a6=a.upper())#I AM A STUDENT IN INDIA
+print(len(a))
+
+
+
+
+
